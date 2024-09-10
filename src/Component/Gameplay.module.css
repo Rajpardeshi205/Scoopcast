@@ -5,7 +5,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-repeat: repeat-y;
-background-image: url('public/Images/bgframe.jpg');
+  background-color: #1a759f;
+
 }
 
 .round1 {
