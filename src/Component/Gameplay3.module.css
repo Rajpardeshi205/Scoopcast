@@ -1,0 +1,49 @@
+.round3 {
+  /* Updated class for round3 */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 0 auto;
+  margin: 0 auto;
+  margin-top: 260px;
+}
+
+.topframe {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 60px;
+}
+
+.topframe h1 {
+  font-size: 54px;
+}
+
+.topframe h3 {
+  font-size: 34px;
+}
+
+.topframe img {
+  margin-top: 70px;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 5px solid yellow;
+  object-fit: cover;
+  margin-bottom: 40px;
+}
+
+.new_frame {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.arrow img {
+  border: none;
+  height: 300px;
+  width: 300px;
+}
