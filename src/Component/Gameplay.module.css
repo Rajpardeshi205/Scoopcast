@@ -13,7 +13,10 @@ body {
   justify-content: center;
   align-items: center;
   width: 100%;
-  background-image: url("./Images/bgframe.jpg");
+  background-image: url("./Images/bgframe.jpg
+");
+  background-image: url("./bgframe.png
+");
   /* height: 100vh; */
   padding: 0 auto;
   margin: 0 auto;
